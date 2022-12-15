@@ -50,6 +50,7 @@ header {
   letter-spacing: 0.03em;
   text-decoration: none;
   text-transform: uppercase;
+  font-family: "Roboto";
 }
 /* nav */
 .site-nav {
@@ -264,7 +265,12 @@ footer {
   font-family: Roboto;
 }
 
-.content-footer {
+/* .content-footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+} */
+
+footer {
   padding-top: 100px;
   padding-bottom: 100px;
 }
